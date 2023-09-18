@@ -33,6 +33,7 @@ body {
 .main {
     width: 70%;
     display: flex;
+    flex-wrap: nowrap;
     flex-direction: row;
     justify-content: space-between;
     border-radius: 20px;
