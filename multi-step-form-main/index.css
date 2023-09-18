@@ -521,7 +521,8 @@ input:checked+.slider:before {
 
     .main>ul {
         width: 100%;
-        min-height: 30vh;
+        /*min-height: 30vh;*/
+        height:30vh;
         border-radius: 0;
         display: flex;
         padding: 38px;
